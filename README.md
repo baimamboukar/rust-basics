@@ -1,2 +1,2 @@
-# rust-basics
-Learning basics of the rust programming language
+# RUST PROGRAMMING LANGUAGE
+Learning basics of the rust programming language...
